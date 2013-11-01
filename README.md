@@ -211,6 +211,19 @@ The music I listen to.
 * Tito Puente
 * Bebo Valdés
 
+### Bresil
+
+* Astrud Gilberto
+* Joao Gilberto
+* Carlos Lyra
+* Marcos Valle
+* Caetano Veloso
+* Antonio Carlos Jobim
+* Edu Lobo
+* Tom Jobim
+* Elis Regina
+* Maria Bethânia
+
 ### Inde
 
 * Pandit Pran Nath
@@ -456,18 +469,6 @@ The music I listen to.
 * Jacques Higelin
 * Mano Solo
 
-# Bresil
-
-* Astrud Gilberto
-* Joao Gilberto
-* Carlos Lyra
-* Marcos Valle
-* Caetano Veloso
-* Antonio Carlos Jobim
-* Edu Lobo
-* Tom Jobim
-* Elis Regina
-* Maria Bethânia
 
 ## Inclassable
 
