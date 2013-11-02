@@ -506,4 +506,4 @@ The music I listen to.
 ## Discover
 
 * http://www.dmute.net/
-* http://fleamarketfunk.com/2013/04/03/csc-funk-band-funkincense/
+* http://fleamarketfunk.com/
