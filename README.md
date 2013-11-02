@@ -351,6 +351,8 @@ The music I listen to.
 ## Funk
 
 * Lonnie Liston Smith
+* Electric Cowbell Records
+* Karl Hector & the Malcouns
 
 ## Electro
 
