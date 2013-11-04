@@ -100,6 +100,7 @@ The music I listen to.
 * La mal coiffée
 * the pogues
 * Sinéad O'Connor
+* Shirley Collins
 
 ## Acousmatique / Concrète
 
