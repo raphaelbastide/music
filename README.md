@@ -488,6 +488,7 @@ The music I listen to.
 * Canibal Caniche
 * Canalb
 * Wbgo (radio jazz) + archives
+* http://phauneradio.com/
 
 ## Podcasts
 
