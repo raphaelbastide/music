@@ -386,6 +386,7 @@ The music I listen to.
 * Gilles Gobeil
 * Cristian Zanési
 * Oneohtrix Point Never
+* Isan
 
 ### Clickncut…
 
