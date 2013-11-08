@@ -54,7 +54,7 @@ The music I listen to.
 * Blur
 * Oasis
 
-## Experimental rock
+## Experimental / alt rock
 
 * Liars
 * Snakefingers
@@ -65,6 +65,8 @@ The music I listen to.
 * master musicians of bukkake
 * Gablé
 * Fishbone
+* Porno For Pyros
+
 
 ## Punk
 
