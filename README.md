@@ -387,6 +387,7 @@ The music I listen to.
 * Cristian Zanési
 * Oneohtrix Point Never
 * Isan
+* Dick Raaymakers aka Kid Baltan - studios Philips
 
 ### Clickncut…
 
