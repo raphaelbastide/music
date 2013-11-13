@@ -411,15 +411,16 @@ The music I listen to.
 * Pan Sonic (mika vainio)
 * Alva Noto (Carsten Nicolai)
 
-### Soft / Ambiant
+### Soft / Ambiant / Cheap
 
 * Ecoplan
 * Bryter Layter
 * Chiptune / 8/16bits
 * Jahtari
-* Gangpol & Mit
 * Souleye
 * Jim Guthrie
+* Max Tundra
+* Gangpol & Mit
 
 ### Dance / New,Cold wave
 
