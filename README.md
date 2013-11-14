@@ -401,6 +401,7 @@ The music I listen to.
 * florent colautti
 * Ben Frost
 * Dinos Chapman
+* Richard Devine
 
 ### Footwork
 
