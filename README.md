@@ -388,6 +388,7 @@ The music I listen to.
 * Oneohtrix Point Never
 * Isan
 * Dick Raaymakers aka Kid Baltan - studios Philips
+* Darkside
 
 ### Clickncut…
 
