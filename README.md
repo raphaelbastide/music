@@ -254,6 +254,7 @@ The music I listen to.
 
 * Steve Coleman
 * Joshua Redman
+* Ornette Coleman
 * Von Freeman
 * John Coltrane
 * Matana Roberts
