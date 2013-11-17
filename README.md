@@ -424,6 +424,7 @@ The music I listen to.
 * Jim Guthrie
 * Max Tundra
 * Gangpol & Mit
+* Nero’s Day At Disneyland
 
 ### Dance / New,Cold wave
 
