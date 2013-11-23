@@ -152,7 +152,6 @@ The music I listen to.
 
 ## Hello World
 
-* Mulatu Astatke
 * Bresil Casuarina
 * Harry Belafonte
 * Senor coconut
@@ -164,6 +163,10 @@ The music I listen to.
 
 * Orchestre Poly-Rythmo de Cotonou
 
+### Niger
+
+* Fela Kuti
+
 ### Cameroun
 
 * Etienne Mbappe
@@ -172,6 +175,10 @@ The music I listen to.
 * Le groupe Essiimo
 * Charlotte M'Bango
 * Francis Bebey
+
+### Ethiopie
+
+* Mulatu Astatke
 
 ### Gambie
 
