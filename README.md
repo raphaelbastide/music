@@ -95,7 +95,7 @@ The music I listen to.
 * Eva Cassidy
 * Peter Von Poehl
 * Mountain man
-* Thom Waits
+* Tom Whaits
 * Ghost Days
 
 ## Tradition
