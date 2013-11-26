@@ -90,6 +90,7 @@ The music I listen to.
 * Pete Seeger
 * Odetta
 * Stephen Steinbrink
+* Herman Düne
 * Sharon Van Etten
 * Eva Cassidy
 * Peter Von Poehl
