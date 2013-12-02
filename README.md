@@ -65,7 +65,6 @@ The music I listen to.
 * master musicians of bukkake
 * Gablé
 * Fishbone
-* Porno For Pyros
 * Hanne Hukkelberg
 
 ## Punk
