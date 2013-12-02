@@ -110,6 +110,8 @@ The music I listen to.
 * John Cage
 * Yannick Dauby
 * Philippe Mion
+* Bernard Parmegiani
+* Cristian Zanesi
 
 ## Sérielle
 
