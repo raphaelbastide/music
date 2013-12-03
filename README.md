@@ -111,7 +111,7 @@ The music I listen to.
 * Yannick Dauby
 * Philippe Mion
 * Bernard Parmegiani
-* Cristian Zanesi
+* Christian Zanesi
 
 ## Sérielle
 
