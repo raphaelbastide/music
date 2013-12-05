@@ -189,13 +189,17 @@ The music I listen to.
 ### Guinée
 
 * Orchestre du Jardin de Guinée
-* Madagascar
+
+#### Madagascar
+
 * Damily
 
 ### Congo
 
 * Papa Kourand
-* Centrafrique
+
+#### Centrafrique
+
 * http://www.4-shared.eu/mediafire%20zip%20ocora
 
 ### Mali
