@@ -190,7 +190,7 @@ The music I listen to.
 
 * Orchestre du Jardin de Guinée
 
-#### Madagascar
+### Madagascar
 
 * Damily
 
@@ -198,7 +198,7 @@ The music I listen to.
 
 * Papa Kourand
 
-#### Centrafrique
+### Centrafrique
 
 * http://www.4-shared.eu/mediafire%20zip%20ocora
 
@@ -395,19 +395,6 @@ The music I listen to.
 * borful tang
 * Cindytalk
 * Stumbleine
-* Mr Oizo
-* Jam city
-* Gilles Gobeil
-* Cristian Zanési
-* Oneohtrix Point Never
-* Isan
-* Dick Raaymakers aka Kid Baltan - studios Philips
-* Darkside
-
-### Clickncut…
-
-* Nebulo
-* Franck Vigroux
 * Morton Subotnick
 * Baconhead
 * Skrillex
@@ -425,6 +412,20 @@ The music I listen to.
 
 * Martin Neukom http://www.domizil.ch/releases/d25/d25.html
 * Pan Sonic (mika vainio)
+* Mr Oizo
+* Jam city
+* Gilles Gobeil
+* Cristian Zanési
+* Oneohtrix Point Never
+* Isan
+* Dick Raaymakers aka Kid Baltan - studios Philips
+* Darkside
+
+### Clickncut…
+
+* Nebulo
+* Igorrr
+* Franck Vigroux
 * Alva Noto (Carsten Nicolai)
 
 ### Soft / Ambiant / Cheap
