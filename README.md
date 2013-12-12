@@ -370,6 +370,8 @@ The music I listen to.
 * Lonnie Liston Smith
 * Electric Cowbell Records
 * Karl Hector & the Malcouns
+* Jamiroquai
+* James Brown
 
 ## Electro
 
