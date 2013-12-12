@@ -441,6 +441,7 @@ The music I listen to.
 * Max Tundra
 * Gangpol & Mit
 * Nero’s Day At Disneyland
+* Julien Adrien Lacroix
 
 ### Dance / New,Cold wave
 
