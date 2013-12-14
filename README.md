@@ -480,6 +480,8 @@ The music I listen to.
 * The last poets 
 * Hobo Junction
 * the streets
+* Drake
+* Pusha T
 
 ## Reggae RockSteady Ska
 
