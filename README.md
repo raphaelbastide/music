@@ -424,12 +424,14 @@ The music I listen to.
 * Dick Raaymakers aka Kid Baltan - studios Philips
 * Darkside
 
-### Clickncut…
+### Electronica
 
 * Nebulo
 * Igorrr
 * Franck Vigroux
 * Alva Noto (Carsten Nicolai)
+* Emptyset
+* Julien Adrien Lacroix
 
 ### Soft / Ambiant / Cheap
 
@@ -442,7 +444,6 @@ The music I listen to.
 * Max Tundra
 * Gangpol & Mit
 * Nero’s Day At Disneyland
-* Julien Adrien Lacroix
 
 ### Dance / New,Cold wave
 
