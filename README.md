@@ -334,7 +334,8 @@ The music I listen to.
 * Shumann
 * Liszt
 * Glen Gould
-* Stravinsky
+* Igor Stravinsky
+* Francis Poulenc
 
 ### Guitare
 
