@@ -445,7 +445,7 @@ The music I listen to.
 * Gangpol & Mit
 * Nero’s Day At Disneyland
 
-### Dance / New,Cold wave
+### Dance / New, Cold wave
 
 * kavinsky
 * ortrotasce
@@ -463,7 +463,8 @@ The music I listen to.
 * talking heads
 * koudlam
 * daf dos
-* Laraaji 
+* Laraaji
+* B-52
 
 ## No Wave
 
