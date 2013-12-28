@@ -500,6 +500,7 @@ The music I listen to.
 ## Chanson Française
 
 * Serge Gainsbourg
+* Barbara
 * La Tordue
 * Alain Bashung
 * Jacques Brel
