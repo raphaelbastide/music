@@ -501,6 +501,7 @@ The music I listen to.
 
 * Serge Gainsbourg
 * Barbara
+* Noir Désir
 * La Tordue
 * Alain Bashung
 * Jacques Brel
