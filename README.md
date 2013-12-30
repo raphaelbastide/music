@@ -485,7 +485,7 @@ The music I listen to.
 * the streets
 * Pusha T
 
-## Reggae RockSteady Ska
+## Reggae RockSteady Ska Dub…
 
 * Peter Tosh
 * The Specials
@@ -496,6 +496,7 @@ The music I listen to.
 * Tiken Jah Fakoly
 * Israel Vibration
 * Clinton Fearon Heart And Soul
+* Lee Scratch Perry
 
 ## Chanson Française
 
