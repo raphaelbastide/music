@@ -96,6 +96,7 @@ The music I listen to.
 * Mountain man
 * Tom Whaits
 * Ghost Days
+* Bon Iver
 
 ## Tradition
 
