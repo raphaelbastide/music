@@ -448,6 +448,7 @@ The music I listen to.
 * Max Tundra
 * Gangpol & Mit
 * Nero’s Day At Disneyland
+* Internal Sun
 
 ### Dance / New, Cold wave
 
