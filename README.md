@@ -53,6 +53,7 @@ The music I listen to.
 * Salad
 * Blur
 * Oasis
+* Electrelaine
 
 ## Experimental / alt rock
 
