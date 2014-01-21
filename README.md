@@ -65,7 +65,6 @@ The music I listen to.
 * Fred Frith
 * master musicians of bukkake
 * Gablé
-* Fishbone
 * Hanne Hukkelberg
 
 ## Punk
