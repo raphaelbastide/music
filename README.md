@@ -325,20 +325,20 @@ The music I listen to.
 
 * Heinrich Ignaz Franz Biber
 * Céline Frisch
-* Beethoven
-* Chopin
-* Debussy
+* Ludwig van Beethoven
+* Frédéric Chopin
+* Claude Debussy
 * Bela Bartók
 * Eric Satie
-* Tchaikovsky
-* Brahms
-* Schubert
-* Brahms
-* Shumann
-* Liszt
+* Pyotr Ilyich Tchaikovsky
+* Franz Schubert
+* Johannes Brahms
+* Robert Schumann
+* Franz Liszt
 * Glen Gould
 * Igor Stravinsky
 * Francis Poulenc
+* Hector Berlioz
 
 ### Guitare
 
