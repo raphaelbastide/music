@@ -532,6 +532,7 @@ The music I listen to.
 * Canalb
 * Wbgo (radio jazz) + archives
 * http://phauneradio.com/
+* http://kohviradio.com/
 
 ## Podcasts
 
