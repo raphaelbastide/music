@@ -547,6 +547,7 @@ The music I listen to.
 * http://atchi.net/52-songs-for-2011/
 * http://www.chongastyle.com/
 * http://stephenlumenta.com/broadcast/
+* http://www.vitalweekly.net
 
 ## Discover
 
