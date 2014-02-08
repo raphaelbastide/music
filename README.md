@@ -161,6 +161,7 @@ The music I listen to.
 * Senor coconut
 * Trio Chemirani / Omar sosa trio / Ballaké Sissoko
 * Omar Sosa
+* Carmen Souza
 * http://www.awesometapes.com/
 
 ### Benin
