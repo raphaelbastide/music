@@ -409,7 +409,10 @@ The music I listen to.
 * Ben Frost
 * Dinos Chapman
 * Richard Devine
-* mergrim
+* Mergrim
+* James Holden
+* Para One
+* Holly Herndon
 
 ### Footwork
 
