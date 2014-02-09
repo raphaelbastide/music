@@ -430,7 +430,7 @@ The music I listen to.
 * Isan
 * Dick Raaymakers aka Kid Baltan - studios Philips
 * Darkside
-* 
+
 ### Electronica
 
 * Nebulo
@@ -439,7 +439,6 @@ The music I listen to.
 * Alva Noto (Carsten Nicolai)
 * Emptyset
 * Julien Adrien Lacroix
-
 
 ### Soft / Ambiant / Cheap
 
