@@ -66,6 +66,7 @@ The music I listen to.
 * master musicians of bukkake
 * Gablé
 * Hanne Hukkelberg
+* Antony and the Johnsons
 
 ## Punk
 
