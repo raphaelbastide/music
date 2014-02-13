@@ -494,6 +494,7 @@ The music I listen to.
 * the streets
 * Pusha T
 * Arca
+* Tyler the creator
 
 ## Reggae RockSteady Ska Dub…
 
