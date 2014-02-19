@@ -67,6 +67,7 @@ The music I listen to.
 * Gablé
 * Hanne Hukkelberg
 * Antony and the Johnsons
+* Connan Mockasin
 
 ## Punk
 
