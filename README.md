@@ -80,6 +80,7 @@ The music I listen to.
 * Ramones
 * The clash
 * Pussy Riot
+* Crash Course In Science
 
 ## Folk / Country
 
