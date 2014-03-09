@@ -367,10 +367,11 @@ The music I listen to.
 * Sonny Boy Williamson (II)
 * Alan Lomax: Negro Prison Blues & Songs
 
-## Rhythm and blues
+## Rhythm and blues / soul
 
 * Nina Simone
 * Areta Franklin
+* Bill Withers
 
 ## Funk
 
