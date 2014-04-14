@@ -68,6 +68,7 @@ The music I listen to.
 * Hanne Hukkelberg
 * Antony and the Johnsons
 * Connan Mockasin
+* Panda Bear
 
 ## Punk
 
