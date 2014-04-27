@@ -457,6 +457,7 @@ The music I listen to.
 * Gangpol & Mit
 * Nero’s Day At Disneyland
 * Internal Sun
+* Tim Hecker
 
 ### Dance / New, Cold wave
 
