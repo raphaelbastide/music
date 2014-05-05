@@ -444,6 +444,7 @@ The music I listen to.
 * Alva Noto (Carsten Nicolai)
 * Emptyset
 * Julien Adrien Lacroix
+* Antti Rannisto
 
 ### Soft / Ambiant / Cheap
 
