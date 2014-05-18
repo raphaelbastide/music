@@ -69,6 +69,7 @@ The music I listen to.
 * Antony and the Johnsons
 * Connan Mockasin
 * Panda Bear
+* Majeure
 
 ## Punk
 
