@@ -145,6 +145,7 @@ The music I listen to.
 * Arvo Pärt
 * Steve Reich
 * Richard Skelton
+* Jon Hassel
 
 ## Mathrock
 
