@@ -118,6 +118,7 @@ The music I listen to.
 * Philippe Mion
 * Bernard Parmegiani
 * Christian Zanesi
+* Michel Redolfi
 
 ## Sérielle
 
