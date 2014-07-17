@@ -449,6 +449,7 @@ The music I listen to.
 * Emptyset
 * Julien Adrien Lacroix
 * Antti Rannisto
+* Kangding Ray
 
 ### Soft / Ambiant / Cheap
 
