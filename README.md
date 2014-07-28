@@ -283,6 +283,7 @@ The music I listen to.
 * John Coltrane
 * Matana Roberts
 * Wayne Shorter
+* Colin Stetson
 
 ### Piano
 
