@@ -509,6 +509,7 @@ The music I listen to.
 * Tyler the creator
 * Casey
 * Antipop Consortium
+* Time Bomb
 
 ## Reggae RockSteady Ska Dub…
 
