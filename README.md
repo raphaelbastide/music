@@ -31,7 +31,6 @@ The music I listen to.
 * Jimy Hendrix
 * Oh!Tiger Mountain
 * Supertramp
-* Connan Mockasin
 * Jamie Cullom
 * Franck Zappa
 * Can
