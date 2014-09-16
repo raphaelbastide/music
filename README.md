@@ -485,6 +485,7 @@ The music I listen to.
 * daf dos
 * Laraaji
 * B-52
+* John Bender
 
 ## No Wave
 
