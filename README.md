@@ -249,6 +249,7 @@ The music I listen to.
 * Tom Jobim
 * Elis Regina
 * Maria Bethânia
+* Eliane Radigue
 
 ### Inde
 
