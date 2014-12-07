@@ -101,6 +101,7 @@ The music I listen to.
 * Tom Whaits
 * Ghost Days
 * Bon Iver
+* Tiny Ruins
 
 ## Tradition
 
