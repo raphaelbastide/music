@@ -15,7 +15,7 @@ The music I listen to.
 * The Velvet Underground
 * Lou Reed
 * Queen
-* Guns'n Roses
+* Guns'n Rosesc
 * Radiohead
 * Amy winehouse
 * Bjork
@@ -490,6 +490,7 @@ The music I listen to.
 * B-52
 * John Bender
 * Art Fact
+* [This list](https://www.youtube.com/watch?v=ui6YRitHyXc&list=PLVzPfPeIV0nOaj5XuWArAFtacrSQHTK8k)
 
 ## No Wave
 
