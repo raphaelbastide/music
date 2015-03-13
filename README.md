@@ -208,6 +208,7 @@ The music I listen to.
 ### Congo
 
 * Papa Kourand
+* Staff Benda Bilili
 
 ### Centrafrique
 
