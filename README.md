@@ -468,6 +468,7 @@ The music I listen to.
 * Internal Sun
 * Tim Hecker
 * Grouper
+* Julianna barwick
 
 ### Dance / New, Cold wave
 
