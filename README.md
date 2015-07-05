@@ -147,6 +147,7 @@ The music I listen to.
 * Steve Reich
 * Richard Skelton
 * Jon Hassel
+* David Lang
 
 ## Mathrock
 
