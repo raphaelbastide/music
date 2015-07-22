@@ -493,6 +493,7 @@ The music I listen to.
 * B-52
 * John Bender
 * Art Fact
+* Deux
 * [This list](https://www.youtube.com/watch?v=ui6YRitHyXc&list=PLVzPfPeIV0nOaj5XuWArAFtacrSQHTK8k)
 
 ## No Wave
