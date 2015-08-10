@@ -315,7 +315,8 @@ The music I listen to.
 * Dave Holland
 * Pau Chambers
 * Christian Mc Bride
-* Jaco pastorius 
+* Jaco pastorius
+* Henry Texier
 
 ### Guitare
 
